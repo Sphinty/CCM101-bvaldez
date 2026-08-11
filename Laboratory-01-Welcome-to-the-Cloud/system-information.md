@@ -1,21 +1,11 @@
-# System Information
+🖥️ System Information
 
-## Linux Distribution
+* Linux Distribution: Ubuntu 24.04.4 LTS
 
-Ubuntu 24.04
+* Kernel Version: 6.8.0-136-generic
 
-## Kernel Version
+* CPU Information:Intel Xeon E312xx, 1 CPU, x86_64
 
-PUT YOUR RESULT HERE
+* Total Memory: 1.9 GiB RAM
 
-## CPU Information
-
-PUT YOUR RESULT HERE
-
-## Total Memory
-
-PUT YOUR RESULT HERE
-
-## Available Disk Space
-
-PUT YOUR RESULT HERE
+* Available Disk Space: 13 GB (19 GB total)
