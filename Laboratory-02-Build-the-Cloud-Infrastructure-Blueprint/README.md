@@ -1,4 +1,3 @@
-# Laboratory README
 
 ## Mission Overview
 
