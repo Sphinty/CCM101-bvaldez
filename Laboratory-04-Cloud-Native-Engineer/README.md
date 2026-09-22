@@ -1,19 +1,23 @@
 # Laboratory 04: Cloud-Native Engineer
 
 ## Mission Overview
-This lab covers the shift from traditional Virtual Machines to containerization.
-As part of the Cloud-Native Engineering Team at CloudNova Technologies, I researched
-the differences between VMs and containers, deployed a live Nginx container using
-Docker on the KillerCoda Playground, and documented the full container lifecycle —
-from pulling the image to removing the container.
+Congratulations! After successfully guiding our clients through multi-cloud evaluations, you have been
+promoted to the Cloud-Native Engineering Team at CloudNova Technologies.
+Modern cloud computing is no longer just about renting Virtual Machines (VMs) from AWS or Azure. Today's
+enterprise applications are built using lightweight, portable, and lightning-fast technologies called Containers.
+Your new mission is to understand the shift from traditional virtualization to containerization.
+Using the KillerCoda Playground, you will step into the shoes of a Cloud-Native Engineer. You will research the
+differences between VMs and containers, execute your very first Docker commands, and deploy a live,
+containerized web server in seconds.
 
 ## Objectives
-- Differentiate between traditional Virtual Machines (VMs) and Containers
-- Access a Docker-enabled cloud environment using KillerCoda
-- Execute fundamental Docker CLI commands
-- Pull, run, manage, and terminate a containerized application (Nginx)
-- Document container operations in Markdown
-- Continue building a well-organized GitHub Cloud Computing Portfolio
+At the end of this laboratory activity, you should be able to:
+- Differentiate between traditional Virtual Machines (VMs) and Containers.
+- Access a Docker-enabled cloud environment using KillerCoda.
+- Execute fundamental Docker CLI (Command Line Interface) commands.
+- Pull, run, manage, and terminate a containerized application (Nginx).
+- Create professional technical documentation of container operations using Markdown.
+- Continue developing a well-organized GitHub Cloud Computing Portfolio. 
 
 ## Docker Commands Executed
 - `docker --version`
