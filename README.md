@@ -46,6 +46,7 @@ It documents my hands-on progress with Linux, Git/GitHub workflows, shell script
 | 01 | Laboratory 01 - Welcome to the Cloud | ✅ Complete |
 | 02 | Laboratory 02 - Build the Cloud Infrastructure Blueprint | ✅ Complete |
 | 03 | Laboratory 03 - Multi-Cloud Explorer | ✅ Complete |
+| 04 | Laboratory-04-Cloud-Native-Engineer | ✅ Complete |
 
 
 ---
