@@ -50,5 +50,3 @@ Together they define the root login credentials without editing any configuratio
 ### Bucket and uploaded file
 ![Bucket upload](screenshots/minio-bucket-upload.png)
 
-## Note
-The credentials here are for a temporary lab environment only. In real deployments, passwords should be strong, kept secret, and never committed to a public repository.
