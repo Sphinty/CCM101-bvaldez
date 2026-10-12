@@ -47,6 +47,7 @@ It documents my hands-on progress with Linux, Git/GitHub workflows, shell script
 | 02 | Laboratory 02 - Build the Cloud Infrastructure Blueprint | ✅ Complete |
 | 03 | Laboratory 03 - Multi-Cloud Explorer | ✅ Complete |
 | 04 | Laboratory-04-Cloud-Native-Engineer | ✅ Complete |
+| 05 | Laboratory-05-Cloud-Data-Engineer | ✅ Complete |
 
 
 ---
