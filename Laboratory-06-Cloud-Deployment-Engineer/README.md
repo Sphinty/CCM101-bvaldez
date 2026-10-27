@@ -4,7 +4,18 @@
 
 ## Mission Overview
 
-In this mission, I moved from deploying single containers to deploying a multi-tier application using Docker Compose and Infrastructure as Code (IaC). Working as a member of the Cloud Deployment Team at CloudNova Technologies, I wrote a `docker-compose.yml` file that defines a MariaDB database container and a Nextcloud web container, deployed both with a single command in a KillerCoda Ubuntu Playground, accessed the Nextcloud setup page through port 8080, and then tore the stack down.
+Congratulations! Your flawless work in deploying data storage solutions has earned you a spot on the
+Cloud Deployment Team at CloudNova Technologies.
+Up until now, you have been deploying single containers (like a standalone web server or a storage
+bucket). However, real-world enterprise applications are rarely just one container. They are "multi-tier" systems
+that require a frontend web application communicating seamlessly with a backend database. Deploying these
+one by one manually is prone to error.
+Enter Docker Compose. In this mission, you will transition from manual commands to Infrastructure
+as Code (IaC). Using a YAML configuration file, you will define a multi-container private cloud storage application
+(Nextcloud and MariaDB) and deploy the entire stack simultaneously with a single command!
+Remember: A junior engineer deploys servers by typing commands; a senior engineer deploys
+infrastructure by writing code.
+
 
 ## Objectives
 
