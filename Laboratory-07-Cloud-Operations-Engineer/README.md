@@ -2,15 +2,27 @@
 
 ## Mission Overview
 
-In this laboratory activity, I took the role of a Cloud Operations Engineer (Site Reliability Engineer) at CloudNova Technologies. A client was preparing a large marketing campaign and worried that the servers would run out of memory under heavy traffic. My task was to run a baseline health check on the host server, deploy the client's Nginx web server in a Docker container, generate test traffic, and use logs and real-time metrics to show the infrastructure was healthy. The lab was done in a Killercoda Ubuntu Playground.
+Congratulations! Your ability to deploy multi-tier architectures has proven your technical capabilities.
+You have now been promoted to the Cloud Operations Team (often referred to in the industry as Site Reliability
+Engineering, or SRE) at CloudNova Technologies.
+Deploying a cloud application is only the first step; keeping it running smoothly is the real challenge.
+When a server crashes or a web page takes ten seconds to load, you cannot simply guess what is wrong. You
+must rely on Observability and Monitoring to see inside your infrastructure.
+Using the KillerCoda Playground, you will step into the role of a Cloud Operations Engineer. You will
+establish a performance baseline for your Linux server, deploy a containerized application, generate artificial web
+traffic, and hunt down performance metrics and system logs to prove the application is healthy.
+Remember: A developer hopes the application works; a Site Reliability Engineer uses metrics and logs to
+prove it.
+
 
 ## Objectives
 
-- Use native Linux command-line tools to monitor host CPU, memory, and disk capacity.
+At the end of this laboratory activity, you should be able to:
+- Utilize native Linux command-line tools to monitor host CPU, Memory, and Disk capacity.
 - Deploy a web container and track its real-time performance using Docker metrics.
 - Generate web traffic and extract application access logs for analysis.
 - Translate raw performance data into a readable technical report using Markdown.
-- Continue expanding a professional GitHub Cloud Computing Portfolio.
+- Continue expanding a professional GitHub Cloud Computing Portfolio. 
 
 ## Monitoring Commands Executed
 
