@@ -1,7 +1,5 @@
 # System Baseline Report
 
-**Environment:** Killercoda Ubuntu Playground
-**Role:** Cloud Operations Engineer, CloudNova Technologies
 
 ## Host Resource Baseline
 
