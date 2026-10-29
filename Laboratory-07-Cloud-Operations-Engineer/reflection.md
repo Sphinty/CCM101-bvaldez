@@ -20,5 +20,4 @@ Large companies cannot run docker stats by hand on thousands of containers. They
 
 Before this lab, I mostly guessed when something seemed wrong. Now I can check host health with free, df, and top, read application logs with docker logs, and verify resource use with docker stats. If a server became slow, I would check the host first, then the container metrics, and then the logs to find the cause.
 
----
-*AI disclosure: I used an AI assistant to help draft and refine this reflection, with my instructor's permission. I reviewed it and confirmed that it reflects my own understanding of the lab.*
+
