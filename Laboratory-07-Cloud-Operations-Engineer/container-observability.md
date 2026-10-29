@@ -26,7 +26,7 @@ Command used: `docker logs client-website`
 The logs showed three successful requests (HTTP 200) and one failed request (HTTP 404). The line for the 404 error:
 
 ```
-<<PASTE YOUR EXACT 404 LINE HERE>>
+docker logs client-website | grep 404
 ```
 
 **Why application logs are vital for troubleshooting:** Logs record exactly what happened, when it happened, and which request caused it, so an engineer can trace a failure to its source instead of guessing. Without them, errors such as a missing page or a failed login would be invisible and much slower to fix.
