@@ -17,4 +17,4 @@ Before configuring the firewall, I ran `sudo ss -tulpn` and `sudo ufw status ver
 - Listening ports found: [22 (SSH), 8080 (Nginx container), others if any]
 - UFW status before changes: [active/inactive]
 
-![Open port audit](screenshots/open-port-audit.png)
+![Open port audit](screenshots/open-ports-audit.png)
