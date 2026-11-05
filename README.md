@@ -49,7 +49,9 @@ It documents my hands-on progress with Linux, Git/GitHub workflows, shell script
 | 04 | Laboratory-04-Cloud-Native-Engineer | ✅ Complete |
 | 05 | Laboratory-05-Cloud-Data-Engineer | ✅ Complete |
 | 06 | Laboratory-06-Cloud-Deployment-Engineer | ✅ Complete |
-| 06 | Laboratory-07-Cloud-Operations-Engineer  | ✅ Complete |
+| 07 | Laboratory-07-Cloud-Operations-Engineer  | ✅ Complete |
+| 08 | Laboratory-08-Cloud-Security-Engineer  | ✅ Complete |
+| 09 | Laboratory-09-Cloud-Automation-Engineer  | ✅ Complete |
 
 
 ---
