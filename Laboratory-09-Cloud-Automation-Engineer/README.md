@@ -1,15 +1,26 @@
 # Laboratory 09: Cloud Automation Engineer
 
 ## Mission Overview
-A client's IT staff kept forgetting to back up application data, which once led to permanent loss of customer files. My mission was to remove the human element by writing a Bash script that compresses and backs up an application directory, making it executable with `chmod`, and scheduling it with cron to run every night at 2:00 AM.
+Congratulations! Your ability to secure cloud environments has proven you are ready for the highest
+level of operations. You have been promoted to the Cloud Automation and DevOps Team at CloudNova
+Technologies.
+Up until now, you have been acting as a traditional systems administrator—typing commands manually
+one by one. In large enterprise environments scaling to thousands of servers, manual administration is too slow
+and highly prone to human error. To survive at scale, you must learn to automate.
+Using the KillerCoda Playground, you will step into the role of a Cloud Automation Engineer. You will
+learn the basics of Bash shell scripting, create an automated backup routine, assign executable permissions, and
+configure the Linux Cron scheduler to run your code autonomously.
+Remember: If you have to do a task more than twice in the cloud, you should automate it.
 
-## Objectives
-- Understand the fundamental syntax of a Bash shell script, including variables and basic commands
-- Use a command-line text editor (nano) to write and save executable scripts
-- Modify Linux file permissions using the chmod command
-- Understand task scheduling and the syntax of a Linux crontab
-- Document automation code and cron job configurations using Markdown
-- Complete the final chapter of my GitHub Cloud Computing Portfolio
+
+## Mission Objectives
+At the end of this laboratory activity, you should be able to:
+- Understand the fundamental syntax of a Bash shell script, including variables and basic commands.
+- Use a command-line text editor (nano) to write and save executable scripts.
+- Modify Linux file permissions using the chmod command.
+- Understand task scheduling and the syntax of a Linux crontab.
+- Document automation code and Cron job configurations using Markdown.
+- Complete the final chapter of your GitHub Cloud Computing Portfolio. 
 
 ## Commands Executed
 ```bash
