@@ -52,7 +52,7 @@ It documents my hands-on progress with Linux, Git/GitHub workflows, shell script
 | 07 | Laboratory-07-Cloud-Operations-Engineer  | ✅ Complete |
 | 08 | Laboratory-08-Cloud-Security-Engineer  | ✅ Complete |
 | 09 | Laboratory-09-Cloud-Automation-Engineer  | ✅ Complete |
-
+| 10 | Laboratory-10-Enterprise-Cloud-Architect  | ✅ Complete |
 
 ---
 
