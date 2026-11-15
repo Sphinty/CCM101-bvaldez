@@ -54,17 +54,3 @@ docker compose ps         # confirm both containers are running
 hostname -I | awk '{print $1}'   # find the server IP, then browse to http://<SERVER-IP>
 ```
 
-## Repository Structure
-```
-CCM101-bvaldez
-├── README.md
-├── Laboratory-01-Welcome-to-the-Cloud/
-... [Previous Missions 2 through 9] ...
-└── Laboratory-10-Enterprise-Cloud-Architect/
-    ├── README.md
-    ├── architecture-diagram.png
-    ├── docker-compose.yml
-    ├── automation-script.sh
-    ├── operational-manual.md
-    └── final-reflection.md
-```
